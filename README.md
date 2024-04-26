@@ -15,6 +15,7 @@ This project is a system developed with HTML and CSS that enables users to make 
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve3.png)
 
 - **Responsive Design:** The system is optimized for both mobile and desktop users, switching to a customized design for mobile devices below a certain pixel width.
+
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezervemobil.png)
 
 ## Design
