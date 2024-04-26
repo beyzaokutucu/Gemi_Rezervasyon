@@ -14,6 +14,7 @@ Bu proje, kullanıcıların bir web arayüzü üzerinden gemi seferleri için on
    ![İmages](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve3.png)
 
 - **Responsive Tasarım:** Sistem, hem mobil hem de desktop kullanıcıları için optimize edilmiş olup, belirli bir piksel genişliğinin altında mobil cihazlar için özelleştirilmiş bir tasarıma geçiş yapar.
+  
      ![İmages](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezervemobil.png)
 
 
