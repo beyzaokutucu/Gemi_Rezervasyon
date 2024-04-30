@@ -1,29 +1,27 @@
-# Valide Sultan Ship - Reservation Registration
+# Valide Sultan Gemi - Rezervasyon Kayıt Sistemi
 ## Ship Reservation System
 
-This project is a system developed with HTML and CSS that enables users to make online reservations for ship voyages through a web interface. It allows users to select dates using an interactive calendar, view available ship voyages for the selected date, and make reservations for available trips. The design process was carried out using Figma.
+Bu proje, HTML ve CSS kullanılarak geliştirilen, kullanıcıların gemi seyahatleri için çevrimiçi rezervasyon yapmalarını sağlayan bir web arayüz sistemidir. Kullanıcılar interaktif bir takvim üzerinden tarih seçebilir, seçilen tarihte mevcut gemi seyahatlerini görüntüleyebilir ve uygun seyahatler için rezervasyon yapabilirler. Tasarım süreci Figma kullanılarak gerçekleştirilmiştir.
 
+## Özellikler
 
-## Features
-
-- **Date Selection via Calendar:** Users can select the date they want to make a reservation using an interactive calendar.
-- **Display of Available Voyages:** Available ship voyages for the selected date are automatically listed on the right side.
+- **Takvim Üzerinden Tarih Seçimi:** Kullanıcılar, interaktif bir takvim kullanarak rezervasyon yapmak istedikleri tarihi seçebilirler.
+- **Mevcut Seyahatlerin Görüntülenmesi: ** Seçilen tarihe göre mevcut gemi seyahatleri otomatik olarak sağ tarafta listelenir.
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve.png)
 
-- **Making Reservations:** Users can complete the reservation process by filling out a form for available voyages.
+- **Rezervasyon Yapma:** Kullanıcılar, mevcut seyahatler için bir form doldurarak rezervasyon işlemini tamamlayabilirler.
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve2.png)
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve3.png)
 
-- **Responsive Design:** The system is optimized for both mobile and desktop users, switching to a customized design for mobile devices below a certain pixel width.
+- **Responsive Tasarım:** Sistem, hem mobil hem de masaüstü kullanıcıları için optimize edilmiş olup, belirli bir piksel genişliğinin altındaki mobil cihazlar için özelleştirilmiş bir tasarıma geçiş yapar.
 
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezervemobil.png)
 
-## Design
+## Tasarım
 
-The user interface design of the project was done using Figma. To review the design and get more detailed visual information, use the link below:
-
+Projenin kullanıcı arayüzü tasarımı Figma kullanılarak yapılmıştır. Tasarımı gözden geçirmek ve daha detaylı görsel bilgi almak için aşağıdaki linke tıklayınız:
 [Go to Figma Design](https://www.figma.com/file/YOURLINKHERE)
 
-## Technologies
+## Teknolojiler
 
-This project was developed using HTML and CSS. Additionally, CSS Media Queries technology has been utilized for responsive design.
+Bu proje HTML ve CSS kullanılarak geliştirilmiştir. Ayrıca, responsive tasarım için CSS Media Queries teknolojisinden yararlanılmıştır.
