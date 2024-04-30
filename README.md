@@ -1,5 +1,4 @@
 # Valide Sultan Gemi - Rezervasyon Kayıt Sistemi
-## Ship Reservation System
 
 Bu proje, HTML ve CSS kullanılarak geliştirilen, kullanıcıların gemi seyahatleri için çevrimiçi rezervasyon yapmalarını sağlayan bir web arayüz sistemidir. Kullanıcılar interaktif bir takvim üzerinden tarih seçebilir, seçilen tarihte mevcut gemi seyahatlerini görüntüleyebilir ve uygun seyahatler için rezervasyon yapabilirler. Tasarım süreci Figma kullanılarak gerçekleştirilmiştir.
 
