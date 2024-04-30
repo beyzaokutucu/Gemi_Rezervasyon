@@ -5,7 +5,7 @@ Bu proje, HTML ve CSS kullanılarak geliştirilen, kullanıcıların gemi seyaha
 ## Özellikler
 
 - **Takvim Üzerinden Tarih Seçimi:** Kullanıcılar, interaktif bir takvim kullanarak rezervasyon yapmak istedikleri tarihi seçebilirler.
-- **Mevcut Seyahatlerin Görüntülenmesi: ** Seçilen tarihe göre mevcut gemi seyahatleri otomatik olarak sağ tarafta listelenir.
+- **Mevcut Seyahatlerin Görüntülenmesi:** Seçilen tarihe göre mevcut gemi seyahatleri otomatik olarak sağ tarafta listelenir.
   ![Images](https://github.com/beyzaokutucu/Gemi_Rezervasyon/blob/main/rezerve.png)
 
 - **Rezervasyon Yapma:** Kullanıcılar, mevcut seyahatler için bir form doldurarak rezervasyon işlemini tamamlayabilirler.
